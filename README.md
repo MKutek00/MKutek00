@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **being better**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS**
-
-- 📫 How to reach me **zmati999@gmail.com**
+- 🌱 Big fan of **Vue.js**
 
 - ⚡ Fun fact **SundayLeauge fan**
+
+- 📖 Learning ** Node.js, Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
