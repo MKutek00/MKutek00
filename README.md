@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **SundayLeauge fan**
 
-- 📖 Learning ** Node.js, Laravel**
+- 📖 Learning **Node.js, Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
